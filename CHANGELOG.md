@@ -1,6 +1,4 @@
 # Change Logs
-## 0.9.16
-* Support Carla 0.9.16
 
 ## 0.9.15
 * Support Carla 0.9.15
